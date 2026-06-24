@@ -9,7 +9,7 @@ Aplicación web de una sola página para presentar el diagnóstico preliminar de
 
 El informe está orientado a la toma de decisiones ministeriales y resume brechas de información pública, acciones prioritarias y mecanismos de seguimiento financiero y territorial.
 
-> **La lógica financiera es directa: el bono financia infraestructura; la información pública financia confianza.**
+> **La lógica financiera es directa: el bono financia infraestructura; la información pública financia confianza**
 
 ## 🧭 Funcionalidades
 
