@@ -32,7 +32,7 @@ No requiere instalación, servidor ni dependencias externas.
 
 1. Descargá el archivo:
 
-   `informe_irie_sanjuan_ministro_disclosure_v4.html`
+   `index.html`
 
 2. Abrilo con un navegador moderno.
 3. Usá el menú lateral para navegar entre secciones.
