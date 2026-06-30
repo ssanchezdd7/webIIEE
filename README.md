@@ -1,4 +1,4 @@
-# IRIE San Juan — Informe Ejecutivo Interactivo
+# IRIE San Juan —- Informe Ejecutivo Interactivo
 
 [![San Juan](https://img.shields.io/badge/Gobierno-San%20Juan-1d4f91?style=for-the-badge)](https://www.sanjuan.gob.ar/)
 [![IIEE](https://img.shields.io/badge/IIEE-Información%20económica-2563eb?style=for-the-badge)](https://web.sanjuan.gob.ar/iiee/)
